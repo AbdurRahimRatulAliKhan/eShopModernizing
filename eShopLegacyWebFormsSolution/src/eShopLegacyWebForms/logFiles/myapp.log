@@ -1,0 +1,231 @@
+2021-11-09 13:18:37,091 [11] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:18:37,192 [11] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:18:49,428 [11] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:18:50,845 [12] (null) DEBUG eShopLegacyWebForms.Global - /bundles/MsAjaxJs?v=D6VN0fHlwFSIWjbVzi6mZyE9Ls-4LNrSSYVGRU46XF81, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:18:50,881 [11] (null) DEBUG eShopLegacyWebForms.Global - /bundles/WebFormsJs?v=N8tymL9KraMLGAMFuPycfH3pXe6uUlRXdhtYv8A_jUU1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:22:37,733 [12] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:22:37,858 [12] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:22:42,478 [12] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:23:42,480 [14] (null) DEBUG eShopLegacyWebForms.Global - /Catalog/Create, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:23:43,231 [14] (null) INFO eShopLegacyWebForms.Catalog.Create - /Catalog/Create, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Catalog/Create.aspx
+
+2021-11-09 13:23:49,101 [9] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:23:49,114 [9] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:23:49,149 [9] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:23:54,670 [14] (null) DEBUG eShopLegacyWebForms.Global - /Catalog/Details/1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:23:54,694 [14] (null) INFO eShopLegacyWebForms.Catalog.Details - /Catalog/Details/1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Catalog/Details.aspx?id=1
+
+2021-11-09 13:24:00,508 [12] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:24:00,519 [12] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:24:00,550 [12] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:24:11,997 [12] (null) DEBUG eShopLegacyWebForms.Global - /Catalog/Edit/1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:24:12,022 [12] (null) INFO eShopLegacyWebForms.Catalog.Edit - /Catalog/Edit/1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Catalog/Edit.aspx?id=1
+
+2021-11-09 13:24:15,302 [14] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:24:15,314 [14] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:24:15,347 [14] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:24:19,040 [9] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:24:19,050 [9] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:24:19,085 [9] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:24:46,524 [14] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:24:46,538 [14] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:24:46,575 [14] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:24:49,088 [16] (null) DEBUG eShopLegacyWebForms.Global - /Catalog/Create, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:24:49,090 [16] (null) INFO eShopLegacyWebForms.Catalog.Create - /Catalog/Create, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Catalog/Create.aspx
+
+2021-11-09 13:25:21,789 [15] (null) DEBUG eShopLegacyWebForms.Global - /Catalog/Create, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:21,795 [15] (null) INFO eShopLegacyWebForms.Catalog.Create - (null)
+Now loading... /Catalog/Create.aspx
+
+2021-11-09 13:25:22,205 [15] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:22,218 [15] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:22,254 [15] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:25:27,798 [14] (null) DEBUG eShopLegacyWebForms.Global - /Default/index/1/size/10, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:27,834 [14] (null) INFO eShopLegacyWebForms._Default - /Default/index/1/size/10, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=1
+
+2021-11-09 13:25:40,464 [12] (null) DEBUG eShopLegacyWebForms.Global - /Catalog/Delete/21, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:40,487 [12] (null) INFO eShopLegacyWebForms.Catalog.Delete - /Catalog/Delete/21, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Catalog/Delete.aspx?id=21
+
+2021-11-09 13:25:43,005 [14] (null) DEBUG eShopLegacyWebForms.Global - /Catalog/Delete/21, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:43,007 [12] (null) INFO eShopLegacyWebForms.Catalog.Delete - (null)
+Now loading... /Catalog/Delete.aspx?id=21
+
+2021-11-09 13:25:43,157 [14] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:43,172 [14] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:43,217 [14] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:25:46,134 [12] (null) DEBUG eShopLegacyWebForms.Global - /Default/index/1/size/10, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:46,166 [12] (null) INFO eShopLegacyWebForms._Default - /Default/index/1/size/10, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=1
+
+2021-11-09 13:25:51,202 [12] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:51,216 [12] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:51,253 [12] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:25:56,515 [12] (null) DEBUG eShopLegacyWebForms.Global - /Catalog/Details/1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:25:56,518 [12] (null) INFO eShopLegacyWebForms.Catalog.Details - /Catalog/Details/1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Catalog/Details.aspx?id=1
+
+2021-11-09 13:26:03,488 [14] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:26:03,505 [14] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:26:03,543 [14] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:26:09,601 [12] (null) DEBUG eShopLegacyWebForms.Global - /Catalog/Edit/1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:26:09,606 [12] (null) INFO eShopLegacyWebForms.Catalog.Edit - /Catalog/Edit/1, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Catalog/Edit.aspx?id=1
+
+2021-11-09 13:26:13,290 [14] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:26:13,303 [14] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:26:13,339 [14] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-09 13:26:25,934 [12] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:26:25,946 [12] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-09 13:26:25,982 [12] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-12 00:20:55,465 [9] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-12 00:20:55,552 [9] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-12 00:21:00,892 [9] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-12 00:23:36,354 [15] (null) DEBUG eShopLegacyWebForms.Global - /Default/index/1/size/10, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-12 00:23:36,404 [15] (null) INFO eShopLegacyWebForms._Default - /Default/index/1/size/10, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=1
+
+2021-11-12 00:28:57,869 [13] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-12 00:28:58,050 [13] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-12 00:29:03,025 [13] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-12 16:47:57,253 [7] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-12 16:47:57,459 [7] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-12 16:48:04,971 [7] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+
+2021-11-12 17:56:26,488 [5] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-12 17:56:26,660 [5] (null) DEBUG eShopLegacyWebForms.Global - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Application_BeginRequest
+
+2021-11-12 17:56:34,059 [5] (null) INFO eShopLegacyWebForms._Default - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Now loading... /Default.aspx?size=10&index=0
+

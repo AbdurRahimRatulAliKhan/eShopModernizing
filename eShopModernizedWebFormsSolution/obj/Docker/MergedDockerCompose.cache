@@ -1,0 +1,46 @@
+networks:
+  default:
+    external: true
+    name: nat
+services:
+  eshop.modernized.webforms:
+    build:
+      context: C:\dev\eShopModernizing\eShopModernizedWebFormsSolution\src\eShopModernizedWebForms
+      dockerfile: Dockerfile
+    environment:
+      AppInsightsInstrumentationKey: ''
+      AzureActiveDirectoryClientId: ''
+      AzureActiveDirectoryTenant: ''
+      ConnectionString: Server=sql.data;Database=Microsoft.eShopOnContainers.Services.CatalogDb;User
+        Id=sa;Password=Pass@word
+      PostLogoutRedirectUri: http://10.0.75.1:5114/
+      StorageConnectionString: ''
+      UseAzureActiveDirectory: "false"
+      UseAzureStorage: "False"
+      UseCustomizationData: "False"
+      UseMockData: "True"
+    image: eshop/modernizedwebforms
+    ports:
+    - published: 5114
+      target: 80
+  sql.data:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Pass@word
+    healthcheck:
+      interval: 1s
+      retries: 20
+      test:
+      - CMD
+      - sqlcmd
+      - -U
+      - sa
+      - -P
+      - Pass@word
+      - -Q
+      - select 1
+    image: microsoft/mssql-server-windows-developer
+    ports:
+    - published: 5433
+      target: 1433
+version: '3.4'

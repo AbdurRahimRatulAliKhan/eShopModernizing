@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc xml:lang="en">
+    <assembly>
+        <name>Microsoft.ApplicationInsights.Log4NetAppender</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.ApplicationInsights.Log4NetAppender.ApplicationInsightsAppender">
+            <summary>
+            Log4Net Appender that routes all logging output to the Application Insights logging framework.
+            </summary>
+        </member>
+        <member name="P:Microsoft.ApplicationInsights.Log4NetAppender.ApplicationInsightsAppender.InstrumentationKey">
+            <summary>
+            Gets or sets The Application Insights instrumentationKey for your application. 
+            </summary>
+            <remarks>
+            This is normally pushed from when Appender is being initialized.
+            </remarks>
+        </member>
+        <member name="P:Microsoft.ApplicationInsights.Log4NetAppender.ApplicationInsightsAppender.RequiresLayout">
+            <summary>
+            Gets a value indicating whether layout is required. The <see cref="T:Microsoft.ApplicationInsights.Log4NetAppender.ApplicationInsightsAppender"/> requires a layout.
+            This Appender converts the LoggingEvent it receives into a text string and requires the layout format string to do so.
+            </summary>
+        </member>
+        <member name="M:Microsoft.ApplicationInsights.Log4NetAppender.ApplicationInsightsAppender.ActivateOptions">
+            <summary>
+            Initializes the Appender and perform instrumentationKey validation.
+            </summary>
+        </member>
+        <member name="M:Microsoft.ApplicationInsights.Log4NetAppender.ApplicationInsightsAppender.Flush(System.Int32)">
+            <summary>
+            Flushes any buffered log data.
+            </summary>
+            <param name="millisecondsTimeout">The maximum time to wait for logging events to be flushed.</param>
+            <returns>True if all logging events were flushed successfully, else false.</returns>
+        </member>
+        <member name="M:Microsoft.ApplicationInsights.Log4NetAppender.ApplicationInsightsAppender.Append(log4net.Core.LoggingEvent)">
+            <summary>
+            Append LoggingEvent Application Insights logging framework.
+            </summary>
+            <param name="loggingEvent">Events to be logged.</param>
+        </member>
+    </members>
+</doc>
